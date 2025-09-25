@@ -133,6 +133,61 @@
 @media (max-width: 768px) {
     .priority-grid {
         grid-template-columns: 1fr;
+        gap: 24px;
+    }
+    
+    .priority-card {
+        padding: 24px;
+    }
+    
+    .priority-title {
+        font-size: 1.25rem;
+    }
+    
+    .priority-description {
+        font-size: 0.9rem;
+    }
+    
+    .priority-icon {
+        font-size: 2.5rem;
+    }
+    
+    .priority-level {
+        top: 12px;
+        right: 12px;
+        padding: 4px 8px;
+        font-size: 0.7rem;
     }
 }
 
+@media (max-width: 480px) {
+    .priority-grid {
+        gap: 16px;
+    }
+    
+    .priority-card {
+        padding: 20px;
+    }
+    
+    .priority-title {
+        font-size: 1.1rem;
+    }
+    
+    .priority-description {
+        font-size: 0.85rem;
+    }
+    
+    .priority-icon {
+        font-size: 2rem;
+    }
+    
+    .priority-items li {
+        padding: 6px 0;
+        font-size: 0.9rem;
+    }
+    
+    .donate-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}

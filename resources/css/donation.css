@@ -235,5 +235,80 @@
         width: 2px;
         height: 20px;
     }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    .form-group label {
+        font-size: 0.9rem;
+    }
+    
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+        padding: 12px;
+        font-size: 14px;
+    }
+    
+    .btn {
+        padding: 12px 24px;
+        font-size: 14px;
+    }
 }
 
+@media (max-width: 480px) {
+    .donation-container {
+        gap: 24px;
+    }
+    
+    .form-section {
+        padding: 24px 16px;
+    }
+    
+    .image-section {
+        min-height: 250px;
+    }
+    
+    .image-title {
+        font-size: 1.5rem;
+    }
+    
+    .image-subtitle {
+        font-size: 1rem;
+    }
+    
+    .form-group {
+        margin-bottom: 16px;
+    }
+    
+    .form-group label {
+        font-size: 0.85rem;
+    }
+    
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+        padding: 10px;
+        font-size: 13px;
+    }
+    
+    .btn {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+    
+    .progress-step {
+        padding: 8px;
+    }
+    
+    .progress-step-number {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+    
+    .progress-step-text {
+        font-size: 0.8rem;
+    }
+}

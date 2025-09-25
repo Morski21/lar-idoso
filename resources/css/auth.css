@@ -1,6 +1,4 @@
-/* Auth Pages Styles - Login, Register, Login Required */
-
-/* Common Auth Styles */
+/* Auth Pages */
 .auth-body {
     font-family: ui-sans-serif, system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -150,7 +148,6 @@
     color: #F26A21;
 }
 
-/* Login Required Page Styles */
 .login-required-body {
     font-family: ui-sans-serif, system-ui, sans-serif;
     color: #333;
@@ -248,7 +245,6 @@
     color: #F26A21;
 }
 
-/* Additional inline styles moved to CSS */
 .auth-logo img {
     max-width: 100%;
     height: 100%;
@@ -273,7 +269,6 @@
     color: #999;
 }
 
-/* Tailwind classes moved to CSS */
 .auth-error {
     margin-bottom: 1rem;
     font-size: 0.875rem;

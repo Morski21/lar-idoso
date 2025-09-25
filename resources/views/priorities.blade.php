@@ -30,31 +30,12 @@
                 <div class="stat-label">Cuidado Contínuo</div>
             </div>
             <div class="stat-card">
-                <span class="stat-number">200+</span>
-                <div class="stat-label">Voluntários</div>
-            </div>
-            <div class="stat-card">
                 <span class="stat-number">15+</span>
                 <div class="stat-label">Anos de Experiência</div>
             </div>
         </div>
 
         <div class="priority-grid">
-            <div class="priority-card urgent">
-                <div class="priority-level urgent">Urgente</div>
-                <span class="priority-icon">💊</span>
-                <h3 class="priority-title">Medicamentos</h3>
-                <p class="priority-description">Medicamentos essenciais para o tratamento dos nossos idosos.</p>
-                <ul class="priority-items">
-                    <li>Medicamentos para pressão alta</li>
-                    <li>Remédios para diabetes</li>
-                    <li>Analgésicos e anti-inflamatórios</li>
-                    <li>Suplementos vitamínicos</li>
-                    <li>Medicamentos para o coração</li>
-                </ul>
-                <a href="/doar" class="donate-btn">Doar Medicamentos</a>
-            </div>
-
             <div class="priority-card urgent">
                 <div class="priority-level urgent">Urgente</div>
                 <span class="priority-icon">🍎</span>

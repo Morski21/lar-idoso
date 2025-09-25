@@ -1,6 +1,4 @@
-/* Priorities Page Specific Styles */
-
-/* Priority Grid */
+/* Priorities */
 .priority-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -129,7 +127,7 @@
     box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);
 }
 
-/* Responsive adjustments for priorities */
+/* Responsive */
 @media (max-width: 768px) {
     .priority-grid {
         grid-template-columns: 1fr;

@@ -49,13 +49,6 @@
                 
                 <div class="checkbox-group">
                     <label>
-                        <input type="checkbox" name="voluntario">
-                        Desejo ser voluntário
-                    </label>
-                </div>
-                
-                <div class="checkbox-group">
-                    <label>
                         <input type="checkbox" name="comunicacoes">
                         Nós adoraríamos poder entrar em contato com você sobre esta e outras campanhas. (?)
                     </label>
@@ -65,13 +58,6 @@
                             Sim, por favor. Desejo receber essas comunicações.
                         </label>
                     </div>
-                </div>
-                
-                <div class="checkbox-group">
-                    <label>
-                        <input type="checkbox" name="privacidade" required>
-                        Li e aceito as <a href="#" style="color:var(--primary)">Políticas de Privacidade</a>. (?)
-                    </label>
                 </div>
                 
                 <button type="submit" class="btn-donate">Fazer Doação</button>
